@@ -6,12 +6,12 @@
     font-weight: bold;
     font-size: 1.4em;
     background-color: lightgrey;
-    color:black;
+    color:rgba(2,0,36,1)s;
     flex:1;
     border-radius:0px 0px 25px 25px;
     margin-top: 1px;
     opacity:.75;
 }
 
-.clear-btn:hover { background-color: white; color:black}
-.clear-btn:active { background-color: black; color:white }
+.clear-btn:hover { background-color: white; color:rgba(2,0,36,1)}
+.clear-btn:active { background-color: rgba(2,0,36,1); color:white }

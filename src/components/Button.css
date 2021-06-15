@@ -6,7 +6,7 @@
     font-weight: bold;
     font-size: 1.6em;
     background-color: rgba(255,255,255,.50);
-    color: black;
+    color: rgba(2,0,36,1);
     flex:1;
     margin:1px
 }
@@ -14,10 +14,10 @@
 .operator {
     background-color: white;
     opacity:.9;
-    color: black
+    color: rgba(2,0,36,1)
 }
 
-.button-wrapper:hover { background-color: black; color:paleturquoise }
+.button-wrapper:hover { background-color: rgba(2,0,36,1); color:paleturquoise }
 .operator:hover { color:paleturquoise }
 .button-wrapper:active { background-color: white; color:paleturquoise }
 .operator:active { color:paleturquoise }
